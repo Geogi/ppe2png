@@ -1,0 +1,11 @@
+[package]
+name = "ppe2png"
+version = "1.0.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0.56"
+embedded-graphics = "0.7.1"
+ignore = "0.4.18"
+png = "0.17.5"
+tinybmp = "0.3.1"
